@@ -1,4 +1,4 @@
 ## Hi there 👋
 
-Myself Chetas Mahajan 
+Chetas Mahajan 
 studying Computer science 
