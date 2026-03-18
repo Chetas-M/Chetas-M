@@ -74,7 +74,7 @@
     <img src="https://img.shields.io/badge/Email-chetasmahajan30%40gmail.com-2563eb?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/chetas-mahajan/">
-    <img src="https://img.shields.io/badge/LinkedIn-Add%20Your%20Profile-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-My%20Linkedin%20Profile-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
