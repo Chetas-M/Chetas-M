@@ -21,15 +21,20 @@
 
 ## What I'm Learning Right Now
 
-- Data structures and problem solving
-- Full-stack web development
-- Better project architecture and clean code practices
-- Writing code more consistently and shipping more often
+- C++ for stronger problem-solving and system-level thinking
+- Linux fundamentals and working comfortably in the terminal
+- Kubernetes and container orchestration basics
+- DevOps concepts, workflows, and tooling
+- Writing cleaner code and building more consistently
 
 ## Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,python,java,mysql,git,github,vscode&theme=light" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,python,java,cpp,linux,docker,kubernetes,mysql,git,github,vscode&theme=light" alt="Tech stack" />
+</p>
+
+<p>
+  HTML • CSS • JavaScript • TypeScript • React • Node.js • Express • Python • Java • C++ • Linux • Docker • Kubernetes • MySQL • Git • GitHub • VS Code
 </p>
 
 ## GitHub Highlights
@@ -52,26 +57,11 @@
 
 ```text
 - Building stronger fundamentals
+- Growing as a DevOps enthusiast
+- Getting better with Linux, Docker, and Kubernetes
 - Contributing more consistently
 - Learning through real-world projects
 - Growing one project at a time
-```
-
-## A Little More About Me
-
-```yaml
-name: Chetas Mahajan
-github: Chetas-M
-role: Aspiring Developer
-location: India
-currently_learning:
-  - Full-stack development
-  - Problem solving
-  - Clean coding practices
-open_to:
-  - Learning
-  - Collaboration
-  - New opportunities
 ```
 
 ## Let's Connect
@@ -83,6 +73,9 @@ open_to:
   <a href="mailto:chetasmahajan30@gmail.com">
     <img src="https://img.shields.io/badge/Email-chetasmahajan30%40gmail.com-2563eb?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <a href="https://www.linkedin.com/in/chetas-mahajan/">
+    <img src="https://img.shields.io/badge/LinkedIn-Add%20Your%20Profile-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
 ---
@@ -90,4 +83,3 @@ open_to:
 <p align="center">
   <i>Learning, building, and showing up consistently.</i>
 </p>
-
