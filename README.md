@@ -56,12 +56,12 @@
 ## Current Focus
 
 ```text
-- Building stronger fundamentals
-- Growing as a DevOps enthusiast
-- Getting better with Linux, Docker, and Kubernetes
-- Contributing more consistently
-- Learning through real-world projects
-- Growing one project at a time
+- Building stronger fundamentals.
+- Growing as a DevOps enthusiast.
+- Getting better with Linux, Docker, and Kubernetes.
+- Contributing more consistently.
+- Learning through real-world projects.
+- Growing one project at a time.
 ```
 
 ## Let's Connect
