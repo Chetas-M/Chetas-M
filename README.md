@@ -1,5 +1,4 @@
 
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:2563eb,100:06b6d4&text=Chetas%20Mahajan&fontColor=ffffff&fontAlignY=40&desc=Building%20projects,%20learning%20daily,%20and%20growing%20one%20commit%20at%20a%20time.&descAlignY=60" alt="header" />
 </p>
